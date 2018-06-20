@@ -1,4 +1,4 @@
 server:
   port: 8083
 configuration:
-  message: Hello Cloud Message!
+  message: Hello! - A Message from Config.
