@@ -1,4 +1,4 @@
 server:
   port: 8083
 configuration:
-  message: Hello Message.
+  message: Hello from Cloud Config in Git!
